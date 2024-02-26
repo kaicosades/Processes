@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\bin\Debug\Processes.exe.config
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\bin\Debug\Processes.exe
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\bin\Debug\Processes.pdb
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\obj\Debug\Processes.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\obj\Debug\Processes.Form1.resources
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\obj\Debug\Processes.Properties.Resources.resources
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\obj\Debug\Processes.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\obj\Debug\Processes.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\obj\Debug\Processes.exe
+C:\Users\Александр\source\repos\IntroductionToSP\Processes\obj\Debug\Processes.pdb

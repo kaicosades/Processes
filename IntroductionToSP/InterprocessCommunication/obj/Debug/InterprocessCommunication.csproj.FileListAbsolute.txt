@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\obj\Debug\InterprocessCommunication.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\obj\Debug\InterprocessCommunication.Form1.resources
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\obj\Debug\InterprocessCommunication.Properties.Resources.resources
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\obj\Debug\InterprocessCommunication.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\obj\Debug\InterprocessCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\bin\Debug\InterprocessCommunication.exe.config
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\bin\Debug\InterprocessCommunication.exe
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\bin\Debug\InterprocessCommunication.pdb
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\obj\Debug\InterprocessCommunication.exe
+C:\Users\Александр\source\repos\IntroductionToSP\InterprocessCommunication\obj\Debug\InterprocessCommunication.pdb
