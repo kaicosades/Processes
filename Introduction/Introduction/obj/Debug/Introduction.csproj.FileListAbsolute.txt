@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\Introduction\Introduction\obj\Debug\Introduction.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Introduction\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Introduction\Introduction\bin\Debug\Introduction.exe.config
+C:\Users\Александр\source\repos\Introduction\Introduction\bin\Debug\Introduction.exe
+C:\Users\Александр\source\repos\Introduction\Introduction\bin\Debug\Introduction.pdb
+C:\Users\Александр\source\repos\Introduction\Introduction\obj\Debug\Introduction.exe
+C:\Users\Александр\source\repos\Introduction\Introduction\obj\Debug\Introduction.pdb

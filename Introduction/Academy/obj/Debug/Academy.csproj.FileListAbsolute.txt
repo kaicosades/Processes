@@ -1,0 +1,12 @@
+C:\Users\Александр\source\repos\Introduction\Academy\bin\Debug\Academy.exe.config
+C:\Users\Александр\source\repos\Introduction\Academy\bin\Debug\Academy.exe
+C:\Users\Александр\source\repos\Introduction\Academy\bin\Debug\Academy.pdb
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.Properties.Resources.resources
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.exe
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.pdb
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.Form1.resources
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.AddStudent.resources
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.AddGroup.resources

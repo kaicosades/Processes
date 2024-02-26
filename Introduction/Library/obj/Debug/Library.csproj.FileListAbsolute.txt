@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\Introduction\Library\bin\Debug\Library.exe.config
+C:\Users\Александр\source\repos\Introduction\Library\bin\Debug\Library.exe
+C:\Users\Александр\source\repos\Introduction\Library\bin\Debug\Library.pdb
+C:\Users\Александр\source\repos\Introduction\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Introduction\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Introduction\Library\obj\Debug\Library.exe
+C:\Users\Александр\source\repos\Introduction\Library\obj\Debug\Library.pdb

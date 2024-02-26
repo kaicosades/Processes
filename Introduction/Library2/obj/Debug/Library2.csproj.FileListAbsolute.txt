@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\Introduction\Library2\bin\Debug\Library2.exe.config
+C:\Users\Александр\source\repos\Introduction\Library2\bin\Debug\Library2.exe
+C:\Users\Александр\source\repos\Introduction\Library2\bin\Debug\Library2.pdb
+C:\Users\Александр\source\repos\Introduction\Library2\obj\Debug\Library2.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Introduction\Library2\obj\Debug\Library2.Form1.resources
+C:\Users\Александр\source\repos\Introduction\Library2\obj\Debug\Library2.Properties.Resources.resources
+C:\Users\Александр\source\repos\Introduction\Library2\obj\Debug\Library2.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\Introduction\Library2\obj\Debug\Library2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Introduction\Library2\obj\Debug\Library2.exe
+C:\Users\Александр\source\repos\Introduction\Library2\obj\Debug\Library2.pdb
