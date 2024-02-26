@@ -24,6 +24,14 @@ namespace Processes
             //InitProcess();
             lvProcesses.Columns.Add("PID"); // создание колонок
             lvProcesses.Columns.Add("Name");
+            lvProcesses.Columns.Add("Base Priority");
+            lvProcesses.Columns.Add("Start time");
+            lvProcesses.Columns.Add("Total CPU time");
+            lvProcesses.Columns.Add("User CPU time");
+            lvProcesses.Columns.Add("Session ID");
+            lvProcesses.Columns.Add("Priority Class");
+            lvProcesses.Columns.Add("Affinity"); 
+            lvProcesses.Columns.Add("Threads");
         }
 
         //void Form1_Closing(object sender, CancelEventArgs e) //~Form1() // диструктор в C# не работает, т к заркывает в виртуалке. Нужно событие закрытия окна
@@ -43,6 +51,15 @@ namespace Processes
             //lvProcesses.Items.Add(myProcess.ToString());
             lvProcesses.Items.Add(myProcess.Id.ToString());
             lvProcesses.Items[lvProcesses.Items.Count - 1].SubItems.Add(myProcess.ProcessName);
+            lvProcesses.Items[lvProcesses.Items.Count - 1].SubItems.Add(myProcess.BasePriority.ToString());
+            lvProcesses.Items[lvProcesses.Items.Count - 1].SubItems.Add(myProcess.StartTime.ToString());
+            lvProcesses.Items[lvProcesses.Items.Count - 1].SubItems.Add(myProcess.TotalProcessorTime.ToString());
+            lvProcesses.Items[lvProcesses.Items.Count - 1].SubItems.Add(myProcess.UserProcessorTime.ToString());
+            lvProcesses.Items[lvProcesses.Items.Count - 1].SubItems.Add(myProcess.SessionId.ToString());
+            lvProcesses.Items[lvProcesses.Items.Count - 1].SubItems.Add(myProcess.PriorityClass.ToString());
+            lvProcesses.Items[lvProcesses.Items.Count - 1].SubItems.Add(myProcess.ProcessorAffinity.ToString());
+            lvProcesses.Items[lvProcesses.Items.Count - 1].SubItems.Add(myProcess.Threads.ToString());
+            
         }
 
         void AllignText()
@@ -82,7 +99,7 @@ namespace Processes
                     //lvProcesses.Items.RemoveByKey(myProcess.Id.ToString());
                     lvProcesses.Items.RemoveAt(lvProcesses.Items.Count - 1);
                 }
-                Info();
+                //Info();
             }
         }
 
